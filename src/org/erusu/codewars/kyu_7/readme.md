@@ -4,6 +4,7 @@ Difficulty: ![7_kyu_difficulty_diagram](7_kyu.PNG?raw=true)
 
 7_kyu Kata are the second easiest type of exercises.
 
+<BR>
 ## Links to Kata:
 
 **Complimentary DNA:** https://www.codewars.com/kata/554e4a2f232cdd87d9000038
