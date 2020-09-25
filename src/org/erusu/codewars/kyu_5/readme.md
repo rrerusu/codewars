@@ -8,6 +8,7 @@ Difficulty: ![5_kyu_difficulty_diagram](5_kyu.PNG?raw=true)
 
 ## Challenge Info
 <details>
+
 	<summary>Pick Peaks</summary>
 	
 	## Pick Peaks
@@ -29,9 +30,11 @@ Difficulty: ![5_kyu_difficulty_diagram](5_kyu.PNG?raw=true)
 	The first and last elements of the array will not be considered as peaks (in the context of a mathematical function, we don't know what is after and before and therefore, we don't know if it is a peak or not).
 
 	Also, beware of plateaus !!! [1, 2, 2, 2, 1] has a peak while [1, 2, 2, 2, 3] does not. In case of a plateau-peak, please only return the position and value of the beginning of the plateau. For example: pickPeaks([1, 2, 2, 2, 1]) returns {pos: [1], peaks: [2]} (or equivalent in other languages)
+	
 </details>
 
 <details>
+
 	<summary>Simple Pig Latin</summary>
 	
 	## Simple Pig Latin
@@ -41,9 +44,11 @@ Difficulty: ![5_kyu_difficulty_diagram](5_kyu.PNG?raw=true)
 	**Problem Statement:**
 	
 	Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
+	
 </details>
 
 <details>
+
 	<summary>Trailing Zeroes</summary>
 	
 	## Trailing Zeroes
@@ -59,4 +64,5 @@ Difficulty: ![5_kyu_difficulty_diagram](5_kyu.PNG?raw=true)
 	Be careful 1000! has 2568 digits...
 
 	For more info, see: http://mathworld.wolfram.com/Factorial.html
+	
 </details>

@@ -10,6 +10,7 @@ Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 
 # Challenge Info
 <details>
+
 	<summary>Differentiate Poly</summary>
 	
 	## Differentiate Poly
@@ -24,9 +25,11 @@ Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 	* There will be a coefficient near each x, unless the coefficient equals 1 or -1.
 	* There will be an exponent near each x, unless the exponent equals 0 or 1.
 	* All exponents will be greater or equal to zero
+	
 </details>
 
 <details>
+
 	<summary>Sudoku Validator</summary>
 	
 	## Sudoku Validator:
@@ -41,9 +44,11 @@ Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 	Write a function `validSolution/ValidateSolution/valid_solution()` that accepts a 2D array representing a Sudoku board, and returns true if it is a valid solution, or false otherwise. The cells of the sudoku board may also contain 0's, which will represent empty cells. Boards containing one or more zeroes are considered to be invalid solutions.
 
 	The board is always 9 cells by 9 cells, and every cell only contains integers from 0 to 9.
+	
 </details>
 
 <details>
+
 	<summary>Triplets</summary>
 	
 	## Triplets
@@ -58,4 +63,5 @@ Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 	As a simplification, you may assume that no letter occurs more than once in the secret string.
 
 	You can assume nothing about the triplets given to you other than that they are valid triplets and that they contain sufficient information to deduce the original string. In particular, this means that the secret string will never contain letters that do not occur in one of the triplets given to you.
+	
 </details>
