@@ -1,6 +1,6 @@
 # 4_kyu Kata
 
-Kyu represents the difficulty of the exercise, the lower the harder.
+Kyu represents the difficulty of the challenge, the lower the harder.
 
 Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 
@@ -8,7 +8,7 @@ Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 
 <BR>
 
-# Kata Info
+# Challenge Info
 <details>
 <summary>Differentiate Poly</summary>
 <h2>Differentiate Poly</h2>
@@ -29,7 +29,7 @@ Create a function that differentiates a polynomial for a given value of x.
 
 <details>
 <summary>Sudoku Validator</summary>
-<h2>Sudoku Validator:<h2>
+<h2>Sudoku Validator:</h2>
 
 <p>
 Link: https://www.codewars.com/kata/529bf0e9bdf7657179000008
