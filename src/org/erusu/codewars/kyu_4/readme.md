@@ -13,7 +13,7 @@ Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 <summary>Differentiate Poly</summary>
 <h2>Differentiate Poly</h2>
 <p>
-**Link:** https://www.codewars.com/kata/566584e3309db1b17d000027
+<b>Link:</b> https://www.codewars.com/kata/566584e3309db1b17d000027
 
 **Problem Statement:**
 
@@ -32,7 +32,7 @@ Create a function that differentiates a polynomial for a given value of x.
 <h2>Sudoku Validator:</h2>
 
 <p>
-**Link:** https://www.codewars.com/kata/529bf0e9bdf7657179000008
+<b>Link:</b> https://www.codewars.com/kata/529bf0e9bdf7657179000008
 
 **Problem Statement:**
 ### Sudoku Background
@@ -50,7 +50,7 @@ The board is always 9 cells by 9 cells, and every cell only contains integers fr
 <summary>Triplets</summary>
 <h2>Triplets</h2>
 <p>
-**Link:** https://www.codewars.com/kata/53f40dff5f9d31b813000774
+<b>Link:</b> https://www.codewars.com/kata/53f40dff5f9d31b813000774
 
 **Problem Statement:**
 
