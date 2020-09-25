@@ -6,7 +6,7 @@ Difficulty: ![6_kyu_difficulty_diagram](6_kyu.PNG?raw=true)
 
 <BR>
 
-## Links to Kata:
+## Links to Kata
 
 **Break Camel Case:** https://www.codewars.com/kata/5208f99aee097e6552000148
 

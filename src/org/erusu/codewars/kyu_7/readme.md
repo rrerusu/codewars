@@ -6,7 +6,7 @@ Difficulty: ![7_kyu_difficulty_diagram](7_kyu.PNG?raw=true)
 
 <BR>
 
-## Links to Kata:
+## Links to Kata
 
 **Complimentary DNA:** https://www.codewars.com/kata/554e4a2f232cdd87d9000038
 

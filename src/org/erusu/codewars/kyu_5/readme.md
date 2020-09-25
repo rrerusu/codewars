@@ -6,7 +6,7 @@ Difficulty: ![5_kyu_difficulty_diagram](5_kyu.PNG?raw=true)
 
 <BR>
 
-## Links to Kata:
+## Links to Kata
 
 **Pick Peaks:** https://www.codewars.com/kata/5279f6fe5ab7f447890006a7
 
