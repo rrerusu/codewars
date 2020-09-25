@@ -6,9 +6,9 @@ Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 
 <BR>
 
-# Links to Kata
+# Kata Info
 <details>
-<summary>**Differentiate Poly**</summary>
+<h2>Differentiate Poly</h2>
 <p>
 Link: https://www.codewars.com/kata/566584e3309db1b17d000027
 
