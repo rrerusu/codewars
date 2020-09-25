@@ -32,35 +32,31 @@ Also, beware of plateaus !!! [1, 2, 2, 2, 1] has a peak while [1, 2, 2, 2, 3] do
 </details>
 
 <details>
-
 	<summary>Simple Pig Latin</summary>
 	
-	## Simple Pig Latin
-	
-	**Link:** https://www.codewars.com/kata/520b9d2ad5c005041100000f
-	
-	**Problem Statement:**
-	
-	Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
-	
+## Simple Pig Latin
+
+**Link:** https://www.codewars.com/kata/520b9d2ad5c005041100000f
+
+**Problem Statement:**
+
+Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
 </details>
 
 <details>
-
 	<summary>Trailing Zeroes</summary>
 	
-	## Trailing Zeroes
-	
-	**Link:** https://www.codewars.com/kata/52f787eb172a8b4ae1000a34
-	
-	**Problem Statement:**
-	
-	Write a program that will calculate the number of trailing zeros in a factorial of a given number.
+## Trailing Zeroes
 
-	N! = 1 * 2 * 3 * ... * N
+**Link:** https://www.codewars.com/kata/52f787eb172a8b4ae1000a34
 
-	Be careful 1000! has 2568 digits...
+**Problem Statement:**
 
-	For more info, see: http://mathworld.wolfram.com/Factorial.html
-	
+Write a program that will calculate the number of trailing zeros in a factorial of a given number.
+
+N! = 1 * 2 * 3 * ... * N
+
+Be careful 1000! has 2568 digits...
+
+For more info, see: http://mathworld.wolfram.com/Factorial.html
 </details>
