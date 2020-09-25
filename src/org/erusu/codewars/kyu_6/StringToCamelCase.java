@@ -5,7 +5,6 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class StringToCamelCase {
-    /*
     public static String toCamelCase(String s){
 
         // StringBuilder for efficient string manipulation
@@ -35,8 +34,9 @@ public class StringToCamelCase {
 
         return builder.toString();
     }
-    */
-    public static String toCamelCase(String s){
+
+    // Faster method someone else put
+    public static String toCamelCase2(String s){
         Matcher m = Pattern.compile("[_|-](\\w)").matcher(s);
         StringBuffer sb = new StringBuffer();
         while (m.find()) {
