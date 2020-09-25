@@ -13,9 +13,9 @@ Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 <summary>Differentiate Poly</summary>
 <h2>Differentiate Poly</h2>
 <p>
-<b>Link:</b> https://www.codewars.com/kata/566584e3309db1b17d000027
+**Link:** https://www.codewars.com/kata/566584e3309db1b17d000027
 
-<b>Problem Statement:</b>
+**Problem Statement:**
 
 Create a function that differentiates a polynomial for a given value of x.
 <BR>Your function will receive 2 arguments: a polynomial as a string, and a point to evaluate the equation as an integer.
@@ -32,9 +32,9 @@ Create a function that differentiates a polynomial for a given value of x.
 <h2>Sudoku Validator:</h2>
 
 <p>
-<b>Link:</b> https://www.codewars.com/kata/529bf0e9bdf7657179000008
+**Link:** https://www.codewars.com/kata/529bf0e9bdf7657179000008
 
-<b>Problem Statement:</b>
+**Problem Statement:**
 ### Sudoku Background
 Sudoku is a game played on a 9x9 grid. The goal of the game is to fill all cells of the grid with digits from 1 to 9, so that each column, each row, and each of the nine 3x3 sub-grids (also known as blocks) contain all of the digits from 1 to 9.
 (More info at: http://en.wikipedia.org/wiki/Sudoku)
@@ -50,7 +50,7 @@ The board is always 9 cells by 9 cells, and every cell only contains integers fr
 <summary>Triplets</summary>
 <h2>Triplets</h2>
 <p>
-<b>Link:</b> https://www.codewars.com/kata/53f40dff5f9d31b813000774
+**Link:** https://www.codewars.com/kata/53f40dff5f9d31b813000774
 
 **Problem Statement:**
 
