@@ -7,8 +7,10 @@ Difficulty: ![4_kyu_difficulty_diagram](4_kyu.PNG?raw=true)
 <BR>
 
 # Links to Kata
-
-**Differentiate Poly:** https://www.codewars.com/kata/566584e3309db1b17d000027
+<details>
+<summary>**Differentiate Poly**</summary>
+<p>
+Link: https://www.codewars.com/kata/566584e3309db1b17d000027
 
 Problem Statement:
 
@@ -19,6 +21,8 @@ Create a function that differentiates a polynomial for a given value of x.
 * There will be a coefficient near each x, unless the coefficient equals 1 or -1.
 * There will be an exponent near each x, unless the exponent equals 0 or 1.
 * All exponents will be greater or equal to zero
+</p>
+</details>
 
 - - - -
 
