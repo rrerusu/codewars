@@ -26,7 +26,7 @@ Create a function that differentiates a polynomial for a given value of x.
 * All exponents will be greater or equal to zero
 </p>
 </details>
-- - - -
+
 <details>
 <summary>Sudoku Validator</summary>
 <h2>Sudoku Validator:<h2>
@@ -45,7 +45,6 @@ Write a function `validSolution/ValidateSolution/valid_solution()` that accepts 
 The board is always 9 cells by 9 cells, and every cell only contains integers from 0 to 9.
 </p>
 </details>
-- - - -
 
 <details>
 <summary>Triplets</summary>
