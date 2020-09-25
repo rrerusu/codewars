@@ -52,7 +52,7 @@ The board is always 9 cells by 9 cells, and every cell only contains integers fr
 <p>
 <b>Link:</b> https://www.codewars.com/kata/53f40dff5f9d31b813000774
 
-<b>Problem Statement:</b>
+**Problem Statement:**
 
 There is a secret string which is unknown to you. Given a collection of random triplets from the string, recover the original string.
 
