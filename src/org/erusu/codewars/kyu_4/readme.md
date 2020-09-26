@@ -94,7 +94,7 @@ depending on the language (see "Sample tests")
 
 ### Note for Bash
 ```
-decompose 50 returns "1,3,5,8,49"<br />
+decompose 50 returns "1,3,5,8,49"
 decompose 4  returns "Nothing"
 ```
 	
