@@ -1,4 +1,4 @@
-package org.erusu.codewars.kyu_5.HumanReadableTime;
+package org.erusu.codewars.kyu_5.human_readable_time;
 
 import java.lang.Math;
 
