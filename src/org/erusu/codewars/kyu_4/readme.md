@@ -92,9 +92,9 @@ The function "decompose" will take a positive integer n and return the decomposi
 
 depending on the language (see "Sample tests")
 
-Note for Bash
+### Note for Bash
 `
-	decompose 50 returns "1,3,5,8,49"
+	decompose 50 returns "1,3,5,8,49" <BR>
 	decompose 4  returns "Nothing"
 `
 	
