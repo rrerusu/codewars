@@ -93,11 +93,11 @@ The function "decompose" will take a positive integer n and return the decomposi
 depending on the language (see "Sample tests")
 
 ### Note for Bash
-`
-decompose 50 returns "1,3,5,8,49"
+<p>
+	decompose 50 returns "1,3,5,8,49"
 
-decompose 4  returns "Nothing"
-`
+	decompose 4  returns "Nothing"
+</p>
 	
 ### Hint
 Very often xk will be n-1.
