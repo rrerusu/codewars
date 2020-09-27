@@ -79,6 +79,7 @@ public class SquareIntoSquares {
 	/*
 		Better Solution: Less cluttery, completely recursive
 
+	 */
 		private static String tryDecomp(long nb, long rac) {
 		if (nb == 0) return "";
 		String l = null;
@@ -96,7 +97,6 @@ public class SquareIntoSquares {
 		String l = tryDecomp(n * n, (long)Math.sqrt(n * n - 1));
 		return l != null ? l.trim() : l;
 	}
-	 */
 }
 
 /*
