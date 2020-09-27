@@ -7,7 +7,7 @@ public class SquareIntoSquaresDriver {
 	public static void main(String[] args) {
 		long start = System.currentTimeMillis();
 
-		System.out.println(SquareIntoSquares.decompose2(12));
+		System.out.println(SquareIntoSquares.decompose(12));
 
 		// System.out.println(SquareIntoSquares.detNewStartingNums(Arrays.asList(18833L, 194L, 5L, 2L, 1L, 1L)));
 

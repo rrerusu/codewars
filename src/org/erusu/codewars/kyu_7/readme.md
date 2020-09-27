@@ -71,3 +71,19 @@ We will consider a, e, i, o, u as vowels for this Kata (but not y).
 
 The input string will only consist of lower case letters and/or spaces.
 </details>
+
+<details>
+	<summary>Simple String Reversal</summary>
+
+## Simple String Reversal
+
+**Link:** https://www.codewars.com/kata/5a71939d373c2e634200008e
+
+**Problem Statement**
+
+In this Kata, we are going to reverse a string while maintaining the spaces (if any) in their original place.
+
+All input will be lower case letters and in some cases spaces.
+
+Good luck!
+</details>
