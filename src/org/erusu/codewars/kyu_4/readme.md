@@ -24,7 +24,7 @@ Let's make it so Bob never misses another interesting number. We've hacked into 
 
 It's up to you, intrepid warrior, to glue the parts together. Write the function that parses the mileage number input, and returns a 2 if the number is "interesting" (see below), a 1 if an interesting number occurs within the next two miles, or a 0 if the number is not interesting.
 
-###Error Checking
+### Error Checking
 * A number is only interesting if it is greater than 99!
 * Input will always be an integer greater than 0, and less than 1,000,000,000.
 * The awesomePhrases array will always be provided, and will always be an array, but may be empty. (Not everyone thinks numbers spell funny words...)
